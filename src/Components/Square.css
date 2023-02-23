@@ -1,0 +1,28 @@
+.square-con{
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    font-weight: bolder;
+}
+.border-right-bottom{
+    border-right: 5px solid #025260;
+    border-bottom: 5px solid #025260;
+}
+.border-right{
+    border-right: 5px solid #025260;
+   
+}
+.border-bottom{
+ 
+    border-bottom: 5px solid #025260;
+}
+.x-color{
+    color:  #41BED7;
+}
+.o-color{
+    color:#D6BAFA;
+}
